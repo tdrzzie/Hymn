@@ -1,0 +1,58 @@
+name: vsongbook
+description: Freedom to sing anywhere anytime
+version: 0.0.1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  
+dependencies:
+  flutter:
+    sdk: flutter
+
+  animated_floatactionbuttons: ^0.1.0
+  async: ^2.5.0
+  card_swiper: ^1.0.2
+  change_app_package_name: ^0.1.2
+  cupertino_icons: ^1.0.2
+  firebase_analytics: ^7.1.1
+  flutter_html: ^1.3.0
+  flutter_launcher_icons: ^0.9.0
+  flutter_slidable: ^0.5.4
+  fluttertoast: ^7.0.2
+  http: ^0.13.1
+  intl: ^0.15.7
+  json_annotation: ^4.0.1
+  json_serializable: ^4.1.0
+  matrix_gesture_detector: ^0.1.0
+  path_provider: ^2.0.1
+  percent_indicator: ^3.0.1
+  provider: ^5.0.0
+  responsive_widgets: ^2.0.1
+  screenshot: ^0.3.0
+  share: ^2.0.1
+  shared_preferences: ^2.0.5
+  sqflite: ^2.0.0+3
+  swipedetector: ^1.2.0
+  test: ^1.15.7
+  url_launcher: ^6.0.3
+  wakelock: ^0.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^1.1.2
+  debug_mode: ^0.1.1
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/appicon.png"
+
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/

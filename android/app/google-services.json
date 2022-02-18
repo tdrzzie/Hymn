@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "768390436350",
+    "project_id": "the-virtual-songbook",
+    "storage_bucket": "the-virtual-songbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768390436350:android:f96d9fbf36a4701b84dcaf",
+        "android_client_info": {
+          "package_name": "virtual.songbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768390436350-sis2p58f41p92k760b0mmspe4hm6c36n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "virtual.songbook",
+            "certificate_hash": "c1df4d3146b7073d2fac68ec7ea717f535fcd616"
+          }
+        },
+        {
+          "client_id": "768390436350-urphnqg223dkm71bvulc0lsgq861ehh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgDPZZ4H3APhFg1zGHeDoQlCP2ebjhxLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768390436350-urphnqg223dkm71bvulc0lsgq861ehh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
